@@ -8,4 +8,3 @@
 2. serverless-architectures-with-aws-lambda
 3. Blue/Green Deployments on AWS
 4. Implementing Microservices on AWS 
-5. 
