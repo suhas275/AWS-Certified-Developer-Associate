@@ -15,7 +15,8 @@
 3. Blue/Green Deployments on AWS
 4. Implementing Microservices on AWS 
 
-## 🔑AWS DVA-CO2 Key Points
+# 🔑<i> AWS DVA-CO2 Key Points </i>
+
 ### Classic Ports to know
 
 •22 = SSH (Secure Shell) - log into a Linux instance 
