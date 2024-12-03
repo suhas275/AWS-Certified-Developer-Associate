@@ -15,7 +15,7 @@
 3. Blue/Green Deployments on AWS
 4. Implementing Microservices on AWS 
 
-# 🔑<i> AWS DVA-CO2 Key Points </i>
+## 🔑<i> AWS DVA-CO2 Key Points </i>
 
 ### Classic Ports to know
 
